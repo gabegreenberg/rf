@@ -1,6 +1,6 @@
 {
-  "name": "reactiflux.com",
-  "description": "Reactiflux",
+  "name": "docs-site",
+  "description": "Gatsby example site",
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
